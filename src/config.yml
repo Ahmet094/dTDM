@@ -1,0 +1,14 @@
+Options:
+  minimumPlayers: 6
+  killsNeededToWin: 3
+  timerTillGamestart: 32
+  bonusPointsForWinners: 20
+Classes:
+    Archer:
+      costs: 50
+      items: 261-1,262-64
+    Knight:
+      costs: 25
+      items: 267-1,260-2
+Locations:
+Players:

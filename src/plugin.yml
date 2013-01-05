@@ -1,0 +1,9 @@
+main: dvtdm.TDM
+name: dvTDM
+author: Ahmet094
+version: 1.0
+commands:
+    setspawn:
+      usage: /setspawn
+    setlobby:
+      usage: /setlobby
